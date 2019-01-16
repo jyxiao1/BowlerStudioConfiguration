@@ -1,8 +1,19 @@
 {
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/fc1d18484644805d26e259b2af7d7e25.git:helloWorld.groovy": [
+      "https://gist.github.com/fc1d18484644805d26e259b2af7d7e25.git",
+      "helloWorld.groovy"
+    ],
+    "https://gist.github.com/caded75975d824b4ebddbb2e3bf66a07.git:WPIClass.groovy": [
+      "https://gist.github.com/caded75975d824b4ebddbb2e3bf66a07.git",
+      "WPIClass.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.29.2",
     "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
