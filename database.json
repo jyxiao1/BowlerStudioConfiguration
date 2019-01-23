@@ -1,6 +1,10 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/b72ce2a1e3977fc7e5a530cfdbd27d69.git:simonGlasses.groovy": [
+      "https://gist.github.com/b72ce2a1e3977fc7e5a530cfdbd27d69.git",
+      "simonGlasses.groovy"
+    ],
     "https://gist.github.com/fc1d18484644805d26e259b2af7d7e25.git:helloWorld.groovy": [
       "https://gist.github.com/fc1d18484644805d26e259b2af7d7e25.git",
       "helloWorld.groovy"
