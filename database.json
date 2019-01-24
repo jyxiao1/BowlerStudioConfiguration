@@ -5,13 +5,13 @@
       "https://gist.github.com/b72ce2a1e3977fc7e5a530cfdbd27d69.git",
       "simonGlasses.groovy"
     ],
-    "https://gist.github.com/fc1d18484644805d26e259b2af7d7e25.git:helloWorld.groovy": [
-      "https://gist.github.com/fc1d18484644805d26e259b2af7d7e25.git",
-      "helloWorld.groovy"
-    ],
     "https://gist.github.com/caded75975d824b4ebddbb2e3bf66a07.git:WPIClass.groovy": [
       "https://gist.github.com/caded75975d824b4ebddbb2e3bf66a07.git",
       "WPIClass.groovy"
+    ],
+    "https://gist.github.com/024928427fb0fa37e52aa7f54508de65.git:javaCadHull.groovy": [
+      "https://gist.github.com/024928427fb0fa37e52aa7f54508de65.git",
+      "javaCadHull.groovy"
     ]
   },
   "BowlerStudioConfigs": {
