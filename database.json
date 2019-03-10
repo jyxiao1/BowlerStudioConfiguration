@@ -1,6 +1,11 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/13cabac2dec90094802f7f88f328fcda.git:magazineDisplay.groovy": [
+      "https://gist.github.com/13cabac2dec90094802f7f88f328fcda.git",
+      "magazineDisplay.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.29.2",
     "fontsize": 12.0,
